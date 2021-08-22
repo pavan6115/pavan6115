@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pavan Kulkarni</h1>
+<h1 align="center">Hi 👋 I'm Pavan Kulkarni</h1>
 <h3 align="center">I'm an aspiring Full Stack Web Developer. I love to build scalable web application and want to learn more Javascript. You can check out my projects and blogs below and connect with me on social media.</h3>
 
 - 🔭 I’m currently working on **full stack technologies**
