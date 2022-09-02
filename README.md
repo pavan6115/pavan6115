@@ -3,7 +3,7 @@
 
 <div align='center'>
 
-[![Website](https://img.shields.io/badge/Website-Portfolio-blueviolet)](https://pavankulkarni.netlify.app)
+[![Website](https://img.shields.io/badge/Website-Portfolio-blueviolet)](https://kulkarnipavan.vercel.app)
 
 </div>
 
