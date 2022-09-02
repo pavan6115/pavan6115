@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **full stack technologies**
 
-- 🥅 Goals for 2021: **Contributing to Open Source Projects**
+- 🥅 Goals for 2022: **Contributing to Open Source Projects**
 
 - ⚡ Fun fact : **I love reading books and researching about cars**
 
